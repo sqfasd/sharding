@@ -1,6 +1,6 @@
 {
   "name": "sharding",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "a fast consistent hashing algorithm that implemented by native codes",
   "main": "index.js",
   "scripts": {
@@ -20,10 +20,6 @@
     "nan": "^1.8.4"
   },
   "gypfile": true,
-  "dist": {
-    "shasum": "bbf70a36fe42e1219b6d236e47e42338bc291477",
-    "tarball": "http://registry.npmjs.org/sharding/-/sharding-0.1.6.tgz"
-  },
   "maintainers": [
     {
       "name": "sqfasd",
